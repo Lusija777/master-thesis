@@ -22,6 +22,13 @@ Projekt je realizovaný v spolupráci so spoločnosťou **Astros Solutions s.r.o
 
 ---
 
+## 📚 Diplomová práca
+
+Kliknutím na odkaz si môžete zobraziť alebo stiahnuť finálnu verziu:
+👉 [LaTex_Diplomova_Praca.pdf](./LaTex_Diplomova_Praca.pdf)
+
+---
+
 ## 📆 Kalendár úloh
 
 | Úloha                                                  | Stav          | Termín       |
