@@ -22,6 +22,13 @@ Projekt je realizovaný v spolupráci so spoločnosťou **Astros Solutions s.r.o
 
 ---
 
+## 📚 Diplomová práca
+
+Kliknutím na odkaz si môžete zobraziť alebo stiahnuť finálnu verziu:
+👉 [LaTex_Diplomova_Praca.pdf](./LaTex_Diplomova_Praca.pdf)
+
+---
+
 ## 📆 Kalendár úloh
 
 | Úloha                                                  | Stav          | Termín       |
@@ -30,10 +37,11 @@ Projekt je realizovaný v spolupráci so spoločnosťou **Astros Solutions s.r.o
 | Preskúmanie existujúcich analytických algoritmov       | ✅ Hotovo      | marec 2025   |
 | Študovanie knižníc pre machine learning tracklets      | 🔄 Prebieha    | 20.2.2025 –  |
 | Zber trénovacích dát                                   | ✅ Hotovo      | apríl 2025   |
-| Návrh a implementácia 1. prototypu                     | 🔄 Prebieha    | 15.3.2025 –  |
-| Tréning a testovanie 1. prototypu                      | 🔄 Prebieha    | 15.3.2025 –  |
+| Návrh a implementácia 1. prototypu                     | ✅ Hotovo    | 15.3.2025 – 20.4.2025 |
 | Hľadanie ďaľších vedeckých článkov                     | 🔄 Prebieha    | 15.4.2025 -   |
-| Príprava stránky a PDF                                 | 🔄 Prebieha    | 15.4.2025 -   |
+| Príprava stránky a PDF                                 | 🔄 Prebieha    | 15.4.2025 -  23.4.2025 |
+| Skúmanie ďalších možností pre tvorbu modelu            | 🔄 Prebieha    | 20.4.2025 -   |
+| Uprava trénovacích dát pre rôzne prototypy             | ⏳ Plánované    |  |
 | Tréning a testovanie modelov                            | ⏳ Plánované   |  |
 | Validácia na nových pozorovaniach                      | ⏳ Plánované   |  |
 | Dokumentácia a porovnanie výsledkov                    | ⏳ Plánované   |   |
