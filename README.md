@@ -39,7 +39,7 @@ Kliknutím na odkaz si môžete zobraziť alebo stiahnuť finálnu verziu:
 | Zber trénovacích dát                                   | ✅ Hotovo      | apríl 2025   |
 | Návrh a implementácia 1. prototypu                     | ✅ Hotovo    | 15.3.2025 – 20.4.2025 |
 | Hľadanie ďaľších vedeckých článkov                     | 🔄 Prebieha    | 15.4.2025 -   |
-| Príprava stránky a PDF                                 | 🔄 Prebieha    | 15.4.2025 -  23.4.2025 |
+| Príprava stránky a PDF                                 | ✅ Hotovo    | 15.4.2025 -  23.4.2025 |
 | Skúmanie ďalších možností pre tvorbu modelu            | 🔄 Prebieha    | 20.4.2025 -   |
 | Uprava trénovacích dát pre rôzne prototypy             | ⏳ Plánované    |  |
 | Tréning a testovanie modelov                            | ⏳ Plánované   |  |
