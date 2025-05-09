@@ -115,7 +115,7 @@ def group_trajectories_by_cluster(object_tracks, ra_dec_data, labels):
 # === 6. Hlavný kód ===
 root_directory = "series_one_object"
 dataset = SpaceDataset(root_directory)
-serie = dataset.series_data[0]
+serie = dataset.series_data[0][0]
 
 # Sledovanie objektov cez všetky snímky
 object_tracks = track_objects_across_frames(serie)
