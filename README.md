@@ -24,7 +24,7 @@ Projekt je realizovaný v spolupráci so spoločnosťou **Astros Solutions s.r.o
 
 ## 📚 Diplomová práca
 
-Kliknutím na odkaz si môžete zobraziť alebo stiahnuť finálnu verziu:
+Kliknutím na odkaz si môžete zobraziť alebo stiahnuť súčasnú verziu:
 👉 [LaTex_Diplomova_Praca.pdf](./LaTex_Diplomova_Praca.pdf)
 
 ---
@@ -62,7 +62,3 @@ Kliknutím na odkaz si môžete zobraziť alebo stiahnuť finálnu verziu:
 **Univerzita Komenského v Bratislave**  
 Fakulta matematiky, fyziky a informatiky  
 **Astros Solutions s.r.o.**
-
----
-
-> Projekt je súčasťou výskumu v oblasti spracovania astronomických obrazov pre účely planetárnej obrany a vesmírneho monitoringu (SSA).
